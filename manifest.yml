@@ -7,7 +7,7 @@ applications:
   path: .
   env:
   # DO NOT TOUCH, VERSION IS AUTOINCREMENTED BY BUMPVERSION TOOL
-    VERSION: "0.4.3" 
+    VERSION: "0.4.4.0" 
   ### This three env variables need to be manually set depending on the instance of CF this is example for ireland ###
   # TOKEN_KEY_URL: "https://uaa.run.<platform_domain>/token_key"
   # API_URL: "http://api.run.<platform_domain>"
