@@ -1,0 +1,48 @@
+{
+	"ImportPath": "github.com/trustedanalytics/app-launcher-helper",
+	"GoVersion": "go1.4.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/cloudfoundry/gosteno",
+			"Comment": "scotty_09012012-41-g5c1406e",
+			"Rev": "5c1406e9ea0ab919f92e1b194169565def41147b"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Comment": "v1.0-rc1-4-g4b81725",
+			"Rev": "4b8172520a03fa190f427bbd284db01b459bfce7"
+		},
+		{
+                        "ImportPath": "github.com/dgrijalva/jwt-go",
+                        "Comment": "v2.2.0-15-g61124b6",
+                        "Rev": "61124b62ad244d655f87d944aefaa2ae5a0d2f16"
+	        },
+		{
+			"ImportPath": "github.com/go-martini/martini",
+			"Comment": "v1.0-58-gbd8578f",
+			"Rev": "bd8578f41c9b53278c4ada731fe5beac03f80d77"
+		},
+		{
+			"ImportPath": "github.com/kelseyhightower/envconfig",
+			"Comment": "v1.0.0-6-ge904934",
+			"Rev": "e9049346b6aae8e6ad500c5a4519ad029439d660"
+		},
+		{
+			"ImportPath": "github.com/martini-contrib/render",
+			"Rev": "b65063311fac6cbf84d3538f5715f7847e648322"
+		},
+		{
+			"ImportPath": "github.com/onsi/gomega",
+			"Comment": "v1.0-28-g8adf9e1",
+			"Rev": "8adf9e1730c55cdc590de7d49766cb2acc88d8f2"
+		},
+		{
+			"ImportPath": "github.com/oxtoacart/bpool",
+			"Rev": "89c3c7319abbd041bc0a83bdf10bcb8bd445287b"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Rev": "a33d6053e025943d5dc89dfa1f35fe5500618df7"
+		}
+	]
+}
